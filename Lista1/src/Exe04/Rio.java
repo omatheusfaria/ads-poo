@@ -1,4 +1,4 @@
-package Exercicios.Q4;
+package Exe04;
 
 public class Rio {
     //Variaveis

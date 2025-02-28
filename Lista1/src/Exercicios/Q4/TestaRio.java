@@ -1,5 +1,7 @@
 package Exercicios.Q4;
 
+import Exe04.Rio;
+
 public class TestaRio {
     public static void main(String[] args) {
         Rio r1 = new Rio("Guadalupe", 10, true);

@@ -1,5 +1,7 @@
 package Exercicios.Q3;
 
+import Exe03.Produto;
+
 public class TestaProduto {
     public static void main(String[] args) {
         Produto produto1 = new Produto();

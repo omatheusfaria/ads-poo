@@ -1,4 +1,4 @@
-package Exercicios.Q1;
+import Exe01.Aluno;
 
 import javax.swing.*;
 

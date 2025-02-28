@@ -1,4 +1,4 @@
-package Exercicios.Q1;
+package Exe01;
 
 import javax.swing.*;
 

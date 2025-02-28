@@ -1,4 +1,4 @@
-package Exercicios.Q3;
+package Exe03;
 
 public class Produto {
     //Variaveis

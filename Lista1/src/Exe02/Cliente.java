@@ -1,4 +1,4 @@
-package Exercicios.Q2;
+package Exe02;
 
 public class Cliente {
     //Variaveis Primitivas
