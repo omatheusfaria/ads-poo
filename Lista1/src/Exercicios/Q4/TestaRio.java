@@ -19,7 +19,7 @@ public class TestaRio {
         r2.poluido = false;
         r2.mostrar();
         r2.sujar();
-        r2.chover(6);
+        r2.chover(6.5f);
         r2.mostrar();
         r2.limpar();
         r2.ensolarar(6);

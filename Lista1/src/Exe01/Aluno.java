@@ -23,11 +23,15 @@ public class Aluno {
     }
 
     //Métodos
-    public void notaFinal(){
-        JOptionPane.showMessageDialog(null, "Média final = " + (this.p1 + this.p2) / 2);
+    public float notaFinal(){
+        return  (this.p1 + this.p2) / 2;
     }
 
     public void dadosAluno(){
-        JOptionPane.showMessageDialog(null, "Dados do aluno: " + "\nNúmero Aluno: " + this.numeroAluno + "\nNome: " + this.nome + "\nIdade: " + this.idade);
+        System.out.println("Dados do aluno: " + "\nNúmero Aluno: " + this.numeroAluno + "\nNome: " + this.nome + "\nIdade: " + this.idade + "\nSituacao: " + this.passou());
+    }
+
+    public String passou(){
+        return (this.notaFinal() >= 6) ? "Passou" : "Não Passou";
     }
 }
