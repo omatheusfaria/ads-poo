@@ -1,4 +1,4 @@
-package Exercicios.Q2;
+package TestaExercicios.Q2;
 
 import Exe02.Cliente;
 

@@ -1,4 +1,4 @@
-package Exercicios.Q4;
+package TestaExercicios.Q4;
 
 import Exe04.Rio;
 

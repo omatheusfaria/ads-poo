@@ -1,4 +1,4 @@
-package Exercicios.Q3;
+package TestaExercicios.Q3;
 
 import Exe03.Produto;
 
