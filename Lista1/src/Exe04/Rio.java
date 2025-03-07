@@ -40,7 +40,7 @@ public class Rio {
     public void mostrar(){
         System.out.println("Nome do Rio: "+this.nome
         +"\nNivel do Rio: "+this.nivel
-        +"\nPoluido do Rio: "+this.poluido
+        +"\nPoluido do Rio: "+ (this.poluido ? "Sim" : "Não")
         +"\n=========================");
     }
 }
