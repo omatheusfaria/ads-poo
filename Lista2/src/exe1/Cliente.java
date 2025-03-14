@@ -4,6 +4,21 @@ public class Cliente {
     private String nome, numConta, numAgencia;
     private float saldo;
 
+    //Contrutores
+    public Cliente(){
+        this.numConta = "111111-1";
+        this.numAgencia = "1111-1";
+        this.nome = "Sem nome";
+    }
+
+    public Cliente(String nome, String numConta, String numAgencia, float saldo){
+        this.setNome(nome);
+        this.setNumConta(numConta);
+        this.setNumAgencia(numAgencia);
+        this.setSaldo(saldo);
+    }
+
+    //Setters
     public void setNumConta(String numConta){
         if(numConta.length() == 8){
             if (numConta.charAt(6) == '-'){
@@ -38,6 +53,7 @@ public class Cliente {
         else System.out.println("Saldo negativo");
     }
 
+    //Getters
     public String getNome(){
         return this.nome;
     }
@@ -52,5 +68,23 @@ public class Cliente {
 
     public float getSaldo() {
         return this.saldo;
+    }
+
+    //Métodos
+    public void depositar(float x){
+        this.setSaldo(this.getSaldo() + x);
+    }
+
+    public void sacar(float x){
+        this.setSaldo(this.getSaldo() - x);
+    }
+
+    public String exibeDetalhes() {
+        return "Cliente{" +
+                "nome='" + nome + '\'' +
+                ", numConta='" + numConta + '\'' +
+                ", numAgencia='" + numAgencia + '\'' +
+                ", saldo=" + saldo +
+                '}';
     }
 }
