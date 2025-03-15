@@ -81,10 +81,10 @@ public class Cliente {
 
     public String exibeDetalhes() {
         return "Cliente{" +
-                "nome='" + nome + '\'' +
-                ", numConta='" + numConta + '\'' +
-                ", numAgencia='" + numAgencia + '\'' +
-                ", saldo=" + saldo +
+                "nome='" + this.nome + '\'' +
+                ", numConta='" + this.numConta + '\'' +
+                ", numAgencia='" + this.numAgencia + '\'' +
+                ", saldo=" + this.saldo +
                 '}';
     }
 }

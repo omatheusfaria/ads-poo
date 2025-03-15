@@ -79,4 +79,15 @@ public class Aluno {
     }
 
     //Métodos
+    public float notaFinal(){
+        return (this.p1 + this.p2) / 2;
+    }
+
+    public String dadosAluno() {
+        return  "numAluno: " + this.numAluno +
+                "\n Nome: " + this.nome +
+                "\n Idade: " + this.idade +
+                "\n p1: " + this.p1 +
+                "\n p2: " + this.p2 + "/n";
+    }
 }
