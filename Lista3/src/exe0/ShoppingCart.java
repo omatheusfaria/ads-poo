@@ -67,6 +67,7 @@ public class ShoppingCart {
 
     public void addCarItem(int id, float quantity, Product product){
         this.carItens.add(new CarItem(id, quantity, product));
+        calculateFinalPrice();
     }
     public void calculateFinalPrice(){
         double soma = 0;
