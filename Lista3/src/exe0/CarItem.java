@@ -6,8 +6,6 @@ public class CarItem {
     //associoação todo-parte
     private Product product;
 
-    public CarItem() {
-    }
     //Product já estava criado, associação fraca
     //agregação
     public CarItem(int id, float quantity, Product product) {
