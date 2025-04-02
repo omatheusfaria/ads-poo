@@ -12,9 +12,8 @@ public class Voo {
         this.destino = "Destino não definido";
     }
 
-    public Voo(int id, LocalDate date, String origem, String destino){
+    public Voo(int id, String origem, String destino){
         this.setId(id);
-        this.setDate(date);
         this.setOrigem(origem);
         this.setDestino(destino);
     }
@@ -39,8 +38,8 @@ public class Voo {
         this.id = id;
     }
 
-    public void setDate(LocalDate date) {
-        this.date = date;
+    public void setDate(LocalDate data) {
+        this.date = data;
     }
 
     public void setOrigem(String origem) {
