@@ -12,7 +12,7 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 /ads-poo/
 ├── Lista1/        # Classes, Objetos, Variáveis e Métodos
 ├── Lista2/        # Encapsulamento
-└── Lista3/        # Agregação
+├── Lista3/        # Agregação
 └── Lista4/        # Herança e Polimorfismo
 ```
 
@@ -25,7 +25,7 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 | Lista 1 | 📚 **Classes, Objetos, Variáveis e Métodos**                     |
 | Lista 2 | 🔒 **Encapsulamento**                                             |
 | Lista 3 | 🤝 **Agregação**
-|
+| 
 | Lista 4 | 🧬 **Herança e Polimorfismo**
 
                                                   |
