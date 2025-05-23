@@ -13,6 +13,7 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 ├── Lista1/        # Classes, Objetos, Variáveis e Métodos
 ├── Lista2/        # Encapsulamento
 └── Lista3/        # Agregação
+└── Lista4/        # Herança e Polimorfismo
 ```
 
 ---
@@ -23,7 +24,11 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 |--------|------------------------------------------------------------------|
 | Lista 1 | 📚 **Classes, Objetos, Variáveis e Métodos**                     |
 | Lista 2 | 🔒 **Encapsulamento**                                             |
-| Lista 3 | 🤝 **Agregação**                                                  |
+| Lista 3 | 🤝 **Agregação**
+|
+| Lista 4 | 🧬 **Herança e Polimorfismo**
+
+                                                  |
 
 ---
 
@@ -44,6 +49,7 @@ Depois, basta abrir o projeto na sua IDE de preferência (recomendado: **Intelli
 - ☕ **Java 17** (ou superior)
 - 🧠 **POO - Programação Orientada a Objetos**
 - 🛠️ **IntelliJ IDEA** (IDE utilizada no desenvolvimento)
+- 🌙 Insomnia (cliente de API para desenvolvimento e teste de requisições HTTP)
 
 ---
 
