@@ -21,14 +21,11 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 ## ✅ Descrição das Listas
 
 | Lista   | Conteúdo                                                         |
-|--------|------------------------------------------------------------------|
+|---------|------------------------------------------------------------------|
 | Lista 1 | 📚 **Classes, Objetos, Variáveis e Métodos**                     |
 | Lista 2 | 🔒 **Encapsulamento**                                             |
-| Lista 3 | 🤝 **Agregação**
-| 
-| Lista 4 | 🧬 **Herança e Polimorfismo**
-
-                                                  |
+| Lista 3 | 🤝 **Agregação**                                                  |
+| Lista 4 | 🧬 **Herança e Polimorfismo**                                     |
 
 ---
 
