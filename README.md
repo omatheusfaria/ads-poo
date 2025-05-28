@@ -46,13 +46,14 @@ Depois, basta abrir o projeto na sua IDE de preferência (recomendado: **Intelli
 
 ## 💻 Tecnologias Utilizadas
 
-- ☕ **Java 17** (ou superior)
-- 🌱 **Spring Boot**
-- 📦 **Maven** (gerenciador de dependências)
-- 🧠 **POO - Programação Orientada a Objetos**
-- 🛠️ **IntelliJ IDEA** (IDE utilizada no desenvolvimento)
-- 🌙 Insomnia (cliente de API para desenvolvimento e teste de requisições HTTP)
-- 🐘 **PostgreSQL** (banco de dados relacional)
+| Tecnologia | Descrição |
+|------------|-----------|
+| [![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)](https://www.java.com/) | Linguagem principal utilizada no desenvolvimento dos projetos. |
+| [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot) | Framework para construção de aplicações Java baseadas em microserviços e APIs RESTful. |
+| [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/) | Gerenciador de dependências e build automation para projetos Java. |
+| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/) | Sistema de gerenciamento de banco de dados relacional usado no ApiRestfulBD2. |
+| [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/) | IDE utilizada para desenvolvimento Java. |
+| [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](https://insomnia.rest/) | Cliente REST para desenvolvimento e teste de APIs. |
 
 ---
 
