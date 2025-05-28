@@ -10,11 +10,12 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 
 ```
 /ads-poo/
-├── Lista1/        # Classes, Objetos, Variáveis e Métodos
-├── Lista2/        # Encapsulamento
-├── Lista3/        # Agregação
+├── Lista1/ # Classes, Objetos, Variáveis e Métodos
+├── Lista2/ # Encapsulamento
+├── Lista3/ # Agregação
 ├── Lista4/ # Herança e Polimorfismo
-└── ApiRestfulLista/ # API RESTful desenvolvida com Java
+├── ApiRestfulLista/ # API RESTful desenvolvida com Java
+└── ApiRestfulBD2/  # API RESTful com integração de banco de dados PostgreSQL (segunda versão)
 ```
 
 ---
@@ -27,6 +28,7 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 | Lista 2 | 🔒 **Encapsulamento**                                             |
 | Lista 3 | 🤝 **Agregação**                                                  |
 | ApiRestfulLista    | 🌐 **API RESTful com Java**       |
+| ApiRestfulBD2    | 🗄️ **API RESTful com integração de banco de dados**          |
 
 ---
 
@@ -50,6 +52,7 @@ Depois, basta abrir o projeto na sua IDE de preferência (recomendado: **Intelli
 - 🧠 **POO - Programação Orientada a Objetos**
 - 🛠️ **IntelliJ IDEA** (IDE utilizada no desenvolvimento)
 - 🌙 Insomnia (cliente de API para desenvolvimento e teste de requisições HTTP)
+- 🐘 **PostgreSQL** (banco de dados relacional)
 
 ---
 
