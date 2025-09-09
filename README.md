@@ -16,7 +16,9 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 ├── Lista4/ # Herança e Polimorfismo
 ├── ApiRestfulLista/ # API RESTful desenvolvida com Java
 ├── ApiRestfulBD2/  # API RESTful com integração de banco de dados PostgreSQL (segunda versão)
-└── ApiRestfulExe/ # Exercício de fixação API RESTful
+├── ApiRestfulExe/ # Exercício de fixação API RESTful
+├── ApiRestfulBDExe/ # Exercício de fixação API RESTful com banco de dados
+└── ApiRestfulBDExe2/ # Exercício de fixação API RESTful com banco de dados (segunda versão)
 ```
 
 ---
@@ -28,9 +30,12 @@ Os projetos foram feitos com a **IDE IntelliJ IDEA** e organizados em listas de 
 | Lista 1 | 📚 **Classes, Objetos, Variáveis e Métodos**                     |
 | Lista 2 | 🔒 **Encapsulamento**                                             |
 | Lista 3 | 🤝 **Agregação**                                                  |
+| Lista 4 | 👨‍👩‍👧‍👦 **Herança e Polimorfismo**                                     |
 | ApiRestfulLista    | 🌐 **API RESTful com Java**       |
 | ApiRestfulBD2    | 🗄️ **API RESTful com integração de banco de dados**          |
 | ApiRestfulExe    | 🌐 **API RESTful exercício de fixação**          |
+| ApiRestfulBDExe    | 🗄️ **API RESTful com BD (exercício)**          |
+| ApiRestfulBDExe2    | 🗄️ **API RESTful com BD (exercício v2)**          |
 
 ---
 
